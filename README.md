@@ -35,7 +35,7 @@ flatten_1 (Flatten)
 ___
 dense_1 (Dense) (None, 20, activation="relu", kernel_initializer = "uniform") 
 ___
-dense_2 (Dense) (None, 1, activation = "sigmoid")
+dense_2 (Dense) (None, 1, activation = 'sigmoid')
 
 
 
